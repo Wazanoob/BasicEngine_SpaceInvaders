@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\cpaya\source\repos\SimpleEngine\SimpleEngine\Game.cpp(231,62): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  SimpleEngine.vcxproj -> C:\Users\cpaya\source\repos\SimpleEngine\x64\Debug\SimpleEngine.exe
